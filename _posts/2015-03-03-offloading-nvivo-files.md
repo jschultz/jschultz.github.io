@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Offloading NVivo files Part 1
