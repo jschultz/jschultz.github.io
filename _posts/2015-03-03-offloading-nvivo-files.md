@@ -2,7 +2,12 @@
 published: true
 ---
 
-## Offloading NVivo files Part 1
+---
+layout: post
+title: Offloading NVivo files
+---
+
+## Part 1
 
 Since most of my work on QDA has involved Nvivo (I'll tell you what's right and wrong with NVivo another time), one of my first projects was to figure out how to access NVivo's data files. It turns out this isn't so complicated (at least if you are comfortable with Microsoft SQL Server - but don't worry if you aren't) as those NVivo files (with extension .nvp) are actually just Microsoft database files and can be offloaded into more friendly formats (like SQLite - by far the simplest, not to mention portable, reliable, and free, database application).
 
