@@ -48,7 +48,7 @@ url: http://jschultz.github.io
 baseurl: ""
 
 # Disable automatic excerpt generation.
-excerpt_separator: <!--more-->
+excerpt_separator: "\n---\n"
 
 #
 # !! You don't need to change any of the configuration flags below !!
